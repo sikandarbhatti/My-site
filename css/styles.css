@@ -141,3 +141,8 @@ background-color: #66BFBF;
   float: left;
   margin-right: 30px;
 }
+.contact-message
+{
+  font-size: 20px;
+  width: 100%;
+}
