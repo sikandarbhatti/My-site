@@ -1,0 +1,147 @@
+
+body{
+  margin: 0;
+  text-align: center;
+font-size: 200%;
+}
+
+h1
+{
+
+  margin-top: 0;
+  position: relative;
+  top: 100px;
+  font-family: 'Montez', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+h2
+{
+  width: 20%;
+  margin: 100px auto 0 auto;
+  font-family: 'Montez', cursive;
+  color: #66BFBF;
+  font-size: 2.5rem;
+    font-weight: normal;
+}
+h3
+{
+font-family: 'Montez', cursive;
+font-size: 50px;
+color: #11999E;
+display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+p {
+    line-height: 2;
+}
+p
+{
+  display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+font-size: 20px;
+width: 100%;
+}
+hr
+{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin:100px auto;
+}
+.top-container
+{
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+.middle-container
+{
+
+}
+.bottom-container
+{
+background-color: #66BFBF;
+    padding: 50px 0 20px auto;
+    margin-top: 40px;
+}
+.pro
+{
+  text-decoration: underline;
+}
+.bottom-cloud
+{
+  position: absolute;
+  left:300px;
+  bottom:300px;
+}
+.top-cloud
+{
+  position: absolute;
+  top: 100px;
+  right:400px;
+}
+.mountain
+{
+  margin: auto;
+}
+.chilli
+{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.btn
+{
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  color: #11999E;
+  font-size: large;
+}
+.btn:hover
+{
+  color: white;
+}
+
+.footer-link
+{
+  padding-top: 40px;
+  display: inline-block;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: #11999E;
+  font-size: 25px;
+  padding-bottom: 40px;
+  text-decoration: none;
+}
+.footer-link:hover
+{
+  color : white;
+}
+.copyright
+{
+  font-size: 20px;
+  color: white;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.logo
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
